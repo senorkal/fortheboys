@@ -1,1 +1,0 @@
-{"server_type": "fabric", "server_version": "1.21", "version_jdk": "17", "gbs_de_ram_a_usar": 5, "servicio_a_usar": "tailscale", "token_ngrok": "", "region_ngrok": "", "actualizaciones_discord": false, "webhook_de_discord": "", "iniciando_servidor": false, "decir_ip": false, "debug_mode": false, "tipo_ngrok": "", "subdominio_premium": "not_av"}
